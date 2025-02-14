@@ -1,4 +1,4 @@
-# JavaScript_Project_2
+# JavaScript Project 2
 
 What You're Aiming For
 
