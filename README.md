@@ -25,6 +25,6 @@ Array Functions:
 
 Mathematical Functions:
 
--Factorial: Write a function to calculate the factorial of a given number.
+- Factorial: Write a function to calculate the factorial of a given number.
 - Prime Number Check: Create a function to check if a number is prime or not.
 - Fibonacci Sequence: Implement a function to generate the Fibonacci sequence up to a given number of terms. (search on the net )
